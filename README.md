@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Landing Page of ONG "Calapatitas"**
 
-- 🌱 I’m currently learning **Django, Machine Learning**
+- 🌱 I’m currently learning **Django, Machine Learning and Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
