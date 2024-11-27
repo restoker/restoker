@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=restoker&show_icons=true&locale=en&layout=compact" alt="restoker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-two-xi-52.vercel.app&show_icons=true&locale=en" alt="restoker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-xi-52.vercel.app/api?username=restoker&show_icons=true&locale=en" alt="restoker" /></p>
 
