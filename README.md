@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, Machine Learning and Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://folio-flame.vercel.app/]([https://folio-flame.vercel.app/](https://last-folio.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://folio-flame.vercel.app/](https://folio-flame.vercel.app/](https://last-folio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
