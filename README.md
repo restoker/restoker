@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm restoker</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
-![image info]([Isolated.png](https://cdn.cosmos.so/d6827593-98e3-4875-83cc-c17f34686832?format=jpeg))
+<img src="[RelPathofFolder/File](https://cdn.cosmos.so/d6827593-98e3-4875-83cc-c17f34686832?format=jpeg)" style="width:800px;height:300px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=restoker&label=Profile%20views&color=0e75b6&style=flat" alt="restoker" /> </p>
 
 - 🔭 I’m currently working on **Landing Page of ONG "Calapatitas"**
